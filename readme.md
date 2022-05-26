@@ -6,10 +6,10 @@
 
 <p align="center">
     <a href="https://app.codacy.com/manual/jankarikiduniya/AlexaTGMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaTGMusic"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/AlexaTGMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaTGMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/AlexaTGMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaTGMusic/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/AlexaTGMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaTGMusic/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/AlexaTGMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/anilkop/AlexaTGMusic"> <img src="https://img.shields.io/github/repo-size/anilkop/AlexaTGMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/anilkop/AlexaTGMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/anilkop/AlexaTGMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/anilkop/AlexaTGMusic/issues"> <img src="https://img.shields.io/github/issues/anilkop/AlexaTGMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/anilkop/AlexaTGMusic/network/members"> <img src="https://img.shields.io/github/forks/anilkop/AlexaTGMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
